@@ -31,15 +31,25 @@ PIDnew		             - Improved PID with Y-fork and U-turn
 PIDwifiGyro		         - PID control using gyroscope and optional Wi-Fi features
 
 Wall_Following	       - Wall following implementation using distance sensors
+
 PID_Backward	         - PID-based reverse driving logic
+
 Mpu6050gyro 	         - Gyro testing and calibration
+
 Pit 			             - Lava pit navigation code
+
 Stairs			           - Stair navigation code
+
 Zipline 		           - Zipline navigation code
+
 Causeway		           - Course transition or guided path logic
+
 Section1/2/3/		       - Code for each section 
+
 Button 		             - Code for the button
+
 sketch_*.ino/		       - Arduino sketches for various experiments or finalized logic
+
 Pololu QTR-8...fzpz	   - Fritzing sketches (unrelated to code)
 
 
