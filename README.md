@@ -66,13 +66,17 @@ Pololu QTR-8...fzpz	   - Fritzing sketches (unrelated to code)
 ## Getting Started
 
 Prerequisites: 
+
   -Arduino IDE
 
   -Libraries:
-    -Wire.h, Servo.h, Adafruit_MPU6050 (or similar)
-    -QTRSensors.h (for Pololu sensor)
+  
+  -Wire.h, Servo.h, Adafruit_MPU6050 (or similar)
+  
+  -QTRSensors.h (for Pololu sensor)
 
 Uploading Code:
+
   -Connect your Arduino board via USB.
   
   -Open one of the sketches (e.g., Wall_Following, PIDnew) in the Arduino IDE.
