@@ -7,20 +7,30 @@ This is the Transformer Robot project - the highest scoring team (out of 11 comp
 ## Features
 
 Line Following using infrared reflectance sensor arrays (Pololu QTR)
+
 Wall Following with distance sensors
+
 PID Control for both motor speed and directional accuracy (for line and wall following)
+
 Gyroscope for orientation using MPU6050
+
 Servo-Controlled Mechanisms for transformation between different configurations
+
 Advanced Mobility: Includes handling tasks like:
-Stairs climbing
-Zipline 
-Lava pit 
-Lunar surface 
-Treadmill 
+
+  -Stairs climbing
+
+  -Zipline
+  
+  -Lava pit 
+  
+  -Lunar surface 
+  
+  -Treadmill 
 
 ## Folder Overview
 
-Folder/File		Description
+Folder/File             Description
 
 Motors 		             - DC motor control code, basic movement logic
 
@@ -56,13 +66,20 @@ Pololu QTR-8...fzpz	   - Fritzing sketches (unrelated to code)
 ## Getting Started
 
 Prerequisites: 
-Arduino IDE
-Libraries:
-Wire.h, Servo.h, Adafruit_MPU6050 (or similar)
-QTRSensors.h (for Pololu sensor)
+  -Arduino IDE
+
+  -Libraries:
+    -Wire.h, Servo.h, Adafruit_MPU6050 (or similar)
+    
+    -QTRSensors.h (for Pololu sensor)
+
 Uploading Code:
-Connect your Arduino board via USB.
-Open one of the sketches (e.g., Wall_Following, PIDnew) in the Arduino IDE.
-Click Upload to flash the firmware.
-Monitor the Serial output for debugging.
-Press the kill switch to start functioning
+  -Connect your Arduino board via USB.
+  
+  -Open one of the sketches (e.g., Wall_Following, PIDnew) in the Arduino IDE.
+  
+  -Click Upload to flash the firmware.
+  
+  -Monitor the Serial output for debugging.
+  
+  -Press the kill switch to start functioning.
