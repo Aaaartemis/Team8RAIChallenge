@@ -22,7 +22,7 @@ Treadmill
 
 Folder/File		Description
 
-Motors 		             - DC motor control code, basic movement logic
+Motors 		             - DC motor control code, basic movement logic ---
 Servo 			           - Servo motor control for transformation or articulation
 PIDnew		             - Improved PID with Y-fork and U-turn
 PIDwifiGyro		         - PID control using gyroscope and optional Wi-Fi features
