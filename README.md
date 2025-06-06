@@ -70,7 +70,6 @@ Prerequisites:
 
   -Libraries:
     -Wire.h, Servo.h, Adafruit_MPU6050 (or similar)
-    
     -QTRSensors.h (for Pololu sensor)
 
 Uploading Code:
